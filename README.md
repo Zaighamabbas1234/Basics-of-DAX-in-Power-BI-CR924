@@ -58,7 +58,7 @@ Through this project, I gained practical experience in:
 * Understanding basic DAX concepts.
 * Presenting analytical information through dashboards.
 # Understanding basic DAX concepts:
-200+ Functions:
+## 200+ Functions:
 1. sum.
 2. sumx.
 3. Context Function:
