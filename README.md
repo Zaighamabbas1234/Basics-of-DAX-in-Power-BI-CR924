@@ -27,6 +27,7 @@ This project explores commonly used Power BI visualizations, including:
 * Matrix.
 * Slicers.
 * KPI Visuals.
+
 Each visualization is used to understand how different chart types communicate different kinds of information.
 # Key Concepts:
 ## 1. Data Import:
